@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet, ScrollView } from 'react-native';
-
+//comment to check commit
 const SettingsScreen = () => {
   return (
     <ScrollView contentContainerStyle={styles.scrollViewContainer}>
